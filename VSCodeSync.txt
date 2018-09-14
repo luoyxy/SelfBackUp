@@ -1,0 +1,53 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.0.0
+--------------------
+GitHub Token: feb939b70443d2659b2825ee0fcd0fe6b71d7863
+GitHub Gist: c3186b8372e4686fc74a871bc5e04879
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  typescript.json > snippets|typescript.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  beautify v1.3.2
+  bracket-pair-colorizer v1.0.59
+  cocos-creator v0.0.1
+  cocos-debug v0.0.1
+  code-settings-sync v3.0.0
+  debugger-for-chrome v4.8.2
+  gitlens v8.5.6
+  Go v0.6.88
+  go-doc v0.1.1
+  go-snippets v0.1.2
+  JavaScriptSnippets v1.7.0
+  jshint v0.10.19
+  Lua v0.0.9
+  lua-for-vscode v0.0.23
+  lualinter v1.0.3
+  move-ts v1.11.3
+  path-intellisense v1.4.2
+  project-manager v8.0.0
+  python v2018.7.1
+  quokka-vscode v1.0.140
+  theme-go v0.0.3
+  tslint v1.0.36
+  typescript-hero v2.3.2
+  vs-keybindings v0.2.0
+  vscode-eslint v1.4.14
+  vscode-fileheader v0.0.2
+  vscode-filesize v2.1.1
+  vscode-generate-getter-setter v0.5.0
+  vscode-icons v7.25.0
+  vscode-language-pack-zh-hans v1.26.3
+  vscode-todo-highlight v1.0.4
+  WMFsnippets v0.15.3
+--------------------
+Done.
