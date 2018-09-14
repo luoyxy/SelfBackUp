@@ -1,0 +1,117 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
+    },
+    {
+        "key": "ctrl+m ctrl+l",
+        "command": "editor.foldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+0",
+        "command": "-editor.foldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+m ctrl+m",
+        "command": "editor.unfoldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+j",
+        "command": "-editor.unfoldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+enter",
+        "command": "workbench.action.toggleZenMode"
+    },
+    {
+        "key": "ctrl+k z",
+        "command": "-workbench.action.toggleZenMode"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "workbench.action.files.saveAll"
+    },
+    {
+        "key": "ctrl+k s",
+        "command": "-workbench.action.files.saveAll"
+    },
+    {
+        "key": "ctrl+alt+oem_6",
+        "command": "editor.unfoldRecursively",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+oem_6",
+        "command": "-editor.unfoldRecursively",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+oem_4",
+        "command": "editor.foldRecursively",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+oem_4",
+        "command": "-editor.foldRecursively",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "workbench.action.closeOtherEditors"
+    },
+    {
+        "key": "shift+alt+c",
+        "command": "-search.action.copyPath",
+        "when": "fileMatchOrFolderMatchFocus"
+    },
+    {
+        "key": "shift+alt+q",
+        "command": "editor.action.refactor",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+r",
+        "command": "-editor.action.refactor",
+        "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+oem_6",
+        "command": "editor.action.jumpToBracket",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+oem_5",
+        "command": "-editor.action.jumpToBracket",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+oem_6",
+        "command": "-editor.action.indentLines",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+oem_6",
+        "command": "editor.fold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+oem_4",
+        "command": "-editor.fold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+oem_4",
+        "command": "editor.unfold",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+oem_6",
+        "command": "-editor.unfold",
+        "when": "editorTextFocus"
+    }
+]
