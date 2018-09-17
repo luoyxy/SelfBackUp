@@ -1,4 +1,92 @@
 CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.1.2
+--------------------
+GitHub Token: 7d985a065aa1b53b37996e5184189aadfead15e5
+GitHub Gist: a046ac4fec63c2e936cff531bfce0a2c
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  keybindings.json > keybindings.json
+  settings.json > settings.json
+  csharp.json > snippets|csharp.json
+  vsicons.settings.json > vsicons.settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  beautify v1.4.3
+  code-runner v0.9.4
+  code-settings-sync v3.1.2
+  csharp v1.16.1
+  csharpextensions v1.3.0
+  csharpfixformat v0.0.74
+  debugger-for-chrome v4.10.1
+  GetterAndSetterGenerator v1.0.0
+  Go v0.6.89
+  go-doc v0.1.1
+  jshint v0.10.20
+  move-ts v1.11.3
+  path-intellisense v1.4.2
+  project-manager v8.1.0
+  python v2018.8.0
+  python-docs v0.8.3
+  tgit-cmds v1.2.0
+  tortoise-svn v0.1.1
+  tslint v1.0.39
+  typescript-hero v2.3.2
+  unity-debug v1.3.0
+  vs-keybindings v0.2.0
+  vscode-eslint v1.6.0
+  vscode-icons v7.26.0
+  vscode-language-pack-zh-hans v1.27.2
+  vscode-todo-highlight v1.0.4
+--------------------
+Done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODE SETTINGS SYNC UPLOAD SUMMARY
 Version: 3.0.0
 --------------------
 GitHub Token: feb939b70443d2659b2825ee0fcd0fe6b71d7863

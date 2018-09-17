@@ -95,7 +95,7 @@
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+shift+oem_6",
+        "key": "ctrl+shift+oem_4",
         "command": "editor.fold",
         "when": "editorTextFocus"
     },
@@ -105,7 +105,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+oem_4",
+        "key": "ctrl+shift+oem_6",
         "command": "editor.unfold",
         "when": "editorTextFocus"
     },
@@ -113,5 +113,31 @@
         "key": "ctrl+shift+oem_6",
         "command": "-editor.unfold",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "-workbench.debug.viewlet.action.addFunctionBreakpointAction"
+    },
+    {
+        "key": "ctrl+oem_minus",
+        "command": "-workbench.action.zoomOut"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "ctrl+f4",
+        "command": "-workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "workbench.action.closeGroup",
+        "when": "activeEditorGroupEmpty && multipleEditorGroups"
+    },
+    {
+        "key": "ctrl+f4",
+        "command": "-workbench.action.closeGroup",
+        "when": "activeEditorGroupEmpty && multipleEditorGroups"
     }
 ]
