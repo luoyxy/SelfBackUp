@@ -147,5 +147,19 @@
     {
         "key": "ctrl+oem_3",
         "command": "-workbench.action.terminal.toggleTerminal"
-    }
+    },
+    {
+        "key": "shift+alt+up",
+        "command": "-cursorColumnSelectUp",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+down",
+        "command": "-cursorColumnSelectDown",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "-workbench.view.extensions"
+    },
 ]
